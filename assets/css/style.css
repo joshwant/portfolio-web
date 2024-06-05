@@ -197,7 +197,10 @@ form button:hover {
 
 @media (max-width: 480px) {
     header {
+        align-content: center;
         padding: 10px;
+        padding-top: 20px;
+        padding-bottom: 40px;
     }
 
     header h1 {
